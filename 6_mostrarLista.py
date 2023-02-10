@@ -37,4 +37,5 @@ listaa.agregar(30)
 listaa.agregar(40)
 
 # Mostrar la lista circular
+print("Mostrando la lista circular =>")
 listaa.mostrarLista()
